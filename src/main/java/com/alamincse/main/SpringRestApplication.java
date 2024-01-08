@@ -8,9 +8,8 @@ public class SpringRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestApplication.class, args);
-		System.out.println("alamin");
-		System.out.print("You");
-		System.out.println("hello ");
+		System.out.println("hello");
+		
 	}
 
 }
